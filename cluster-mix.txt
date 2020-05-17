@@ -1,0 +1,8 @@
+#cluster-mix avec Multipass, Docker et Kubernetes
+
+#cmd
+sudo snap install
+sudo snap remove
+
+#link
+https://www.grottedubarbu.fr/docker-kubernetes-multipass-and-traefik/
